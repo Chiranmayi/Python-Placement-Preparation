@@ -1,14 +1,14 @@
-# Python Placement Preparation Series 🚀
+# Python Placement Preparation Series 
 
 A structured, hands-on journey to strengthen Python programming, problem-solving skills, backend development, and technical interview preparation.
 
-## 📚 About This Series
+##  About This Series
 
 This repository contains my daily assignments, practice problems, coding exercises, and notes as part of my Python Placement Preparation Series.
 
 The goal is to build strong programming fundamentals, improve logical thinking, and prepare for Python developer placement interviews.
 
-## 🗓️ Learning Roadmap
+##  Learning Roadmap
 
 | Day | Topics | Status |
 |---|---|---|
@@ -29,7 +29,7 @@ The goal is to build strong programming fundamentals, improve logical thinking, 
 - VS Code
 - Virtual Environments (`venv`)
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Python-Placement-Preparation/
