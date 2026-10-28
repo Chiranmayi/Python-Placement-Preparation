@@ -19,7 +19,7 @@ The goal is to build strong programming fundamentals, improve logical thinking, 
 
 
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - Python
 - FastAPI
@@ -85,7 +85,7 @@ Python-Placement-Preparation/
 
 5. Run the Python program or start the FastAPI application according to the day's instructions.
 
-## 📈 Progress
+## Progress
 
 I am continuously learning, practicing, and improving my Python development and problem-solving skills through daily assignments.
 
